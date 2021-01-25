@@ -1,0 +1,3 @@
+  "customurlscheme": "at.lernvorsprung.mobile",
+"app_id": "at.lernvorsprung.lms",
+  "appname": "Lernvorsprung LMS",
